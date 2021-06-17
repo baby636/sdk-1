@@ -19,7 +19,7 @@
   "license": "MIT",
   "dependencies": {
     "@types/bn.js": "^4.11.3",
-    "bn.js": "^4.11.8"
+    "bn.js": "^5.2.0"
   },
   "gitHead": "56606e9365721729a490c27d6a294e0daf90fbdf"
 }
