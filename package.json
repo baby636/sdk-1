@@ -131,7 +131,7 @@
     "typescript": "^3.8.3",
     "typescript-json-schema": "^0.43.0",
     "webpack": "^4.20.2",
-    "webpack-command": "^0.4.1",
+    "webpack-command": "^0.5.0",
     "webpack-node-externals": "^1.7.2",
     "websocket": "^1.0.28"
   },
