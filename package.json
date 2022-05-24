@@ -105,7 +105,7 @@
     "prettier": "^1.18.2",
     "prettier-plugin-solidity": "^1.0.0-alpha.22",
     "pretty-quick": "^1.8.0",
-    "protobufjs": "^6.8.8",
+    "protobufjs": "^6.11.3",
     "rimraf": "^2.6.2",
     "rollup": "^0.66.6",
     "rollup-plugin-alias": "^1.4.0",
