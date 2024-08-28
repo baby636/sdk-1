@@ -130,7 +130,7 @@
     "typedoc-plugin-no-inherit": "^1.1.10",
     "typescript": "^3.8.3",
     "typescript-json-schema": "^0.43.0",
-    "webpack": "^4.20.2",
+    "webpack": "^5.94.0",
     "webpack-command": "^0.4.1",
     "webpack-node-externals": "^1.7.2",
     "websocket": "^1.0.28"
