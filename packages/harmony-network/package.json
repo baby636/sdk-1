@@ -21,7 +21,7 @@
     "@harmony-js/utils": "0.1.56",
     "cross-fetch": "^3.0.2",
     "mitt": "^1.2.0",
-    "websocket": "^1.0.28"
+    "websocket": "^1.0.35"
   },
   "gitHead": "56606e9365721729a490c27d6a294e0daf90fbdf"
 }
