@@ -104,7 +104,7 @@
     "mkdirp": "^0.5.1",
     "prettier": "^1.18.2",
     "prettier-plugin-solidity": "^1.0.0-alpha.22",
-    "pretty-quick": "^1.8.0",
+    "pretty-quick": "^4.1.0",
     "protobufjs": "^6.8.8",
     "rimraf": "^2.6.2",
     "rollup": "^0.66.6",
