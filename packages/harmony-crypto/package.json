@@ -20,7 +20,7 @@
   "dependencies": {
     "@harmony-js/utils": "0.1.56",
     "aes-js": "^3.1.2",
-    "bip39": "^2.5.0",
+    "bip39": "^3.1.0",
     "bn.js": "^4.11.8",
     "elliptic": "^6.4.1",
     "hdkey": "^1.1.1",
